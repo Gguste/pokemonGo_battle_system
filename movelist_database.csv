@@ -1,0 +1,210 @@
+Acid,5,6,poison
+Air Slash,9,9,flying
+Astonish,9,5,ghost
+Bite,2,4,dark
+Bubble,11,8,water
+Bug Bite,3,3,bug
+Bullet Punch,7,6,steel
+Bullet Seed,11,5,grass
+Charge Beam,11,5,electric
+Charm,6,16,fairy
+Confusion,12,16,psychic
+Counter,7,8,fight
+Cut,2,3,normal
+Dragon Breath,3,4,dragon
+Dragon Tail,10,9,dragon
+Ember,6,6,fire
+Extrasensory,10,8,psychic
+Feint Attack,6,6,dark
+Fire Fang,5,8,fire
+Fire Spin,10,9,fire
+Frost Breath,5,7,ice
+Fury Cutter,4,2,bug
+Hex,11,6,ghost
+Hidden Power,8,9,normal
+Ice Fang,5,8,ice
+Ice Shard,10,9,ice
+Infestation,11,6,bug
+Iron Tail,6,9,steel
+Karate Chop,7,5,fight
+Lick,3,3,ghost
+Lock-On,5,1,normal
+Low Kick,5,4,fight
+Metal Claw,6,5,steel
+Mud Shot,9,3,ground
+Mud-Slap,8,9,ground
+Peck,5,6,flying
+Poison Jab,7,6,poison
+Poison Sting,6,3,poison
+Pound,4,5,normal
+Powder Snow,8,4,ice
+Present,12,3,normal
+Psycho Cut,9,3,psychic
+Quick Attack,7,5,normal
+Razor Leaf,4,11,grass
+Rock Smash,7,9,fight
+Rock Throw,5,8,rock
+Scratch,2,4,normal
+Shadow Claw,8,6,ghost
+Smack Down,8,12,rock
+Snarl,13,5,dark
+Spark,8,4,electric
+Splash,12,0,water
+Steel Wing,5,7,steel
+Struggle Bug,8,9,bug
+Sucker Punch,7,5,dark
+Tackle,2,3,normal
+Take Down,8,5,normal
+Thunder Fang,5,8,electric
+Thunder Shock,9,3,electric
+Transform,0,0,normal
+Vine Whip,8,5,grass
+Volt Switch,10,12,electric
+Water Gun,3,3,water
+Water Gun (Blastoise),4,6,water
+Waterfall,8,12,water
+Wing Attack,7,5,flying
+Yawn,12,0,normal
+Zen Headbutt,6,8,psychic
+Acid Spray,50,20,poison
+Aerial Ace,45,55,flying
+Air Cutter,55,60,flying
+Ancient Power,45,70,rock
+Aqua Jet,45,45,water
+Aqua Tail,35,50,water
+Aurora Beam,60,80,ice
+Avalanche,45,90,ice
+Blast Burn,50,110,fire
+Blaze Kick,40,55,fire
+Blizzard,75,130,ice
+Body Slam,35,60,normal
+Bone Club,35,40,ground
+Brave Bird,55,90,flying
+Brick Break,35,40,fight
+Brine,50,60,water
+Bubble Beam,50,60,water
+Bug Buzz,60,90,bug
+Bulldoze,60,80,ground
+Close Combat,60,100,fight
+Crabhammer,50,75,water
+Cross Chop,35,50,fight
+Cross Poison,35,40,poison
+Crunch,45,70,dark
+Dark Pulse,50,80,dark
+Dazzling Gleam,70,110,fairy
+Dig,80,100,ground
+Disarming Voice,45,70,fairy
+Discharge,45,65,electric
+Doom Desire,40,75,steel
+Draco Meteor,75,150,dragon
+Dragon Claw,35,50,dragon
+Dragon Pulse,60,90,dragon
+Draining Kiss,55,60,fairy
+Drill Peck,40,60,flying
+Drill Run,55,80,ground
+Dynamic Punch,50,90,fight
+Earth Power,55,90,ground
+Earthquake,65,120,ground
+Energy Ball,60,90,grass
+Fire Blast,80,140,fire
+Fire Punch,40,55,fire
+Flame Burst,55,70,fire
+Flame Charge,50,70,fire
+Flame Wheel,55,60,fire
+Flamethrower,55,90,fire
+Flash Cannon,65,110,steel
+Focus Blast,75,150,fight
+Foul Play,45,70,dark
+Frenzy Plant,45,100,grass
+Frustration,40,10,normal
+Futuresight,65,120,psychic
+Giga Drain,80,50,grass
+Giga Impact,80,150,normal
+Grass Knot,50,90,grass
+Gunk Shot,75,130,poison
+Gyro Ball,60,80,steel
+Heart Stamp,40,40,psychic
+Heat Wave,75,95,fire
+Heavy Slam,50,70,steel
+Horn Attack,35,40,normal
+Hurricane,65,110,flying
+Hydro Cannon,40,90,water
+Hydro Pump,75,130,water
+Hydro Pump (Blastoise),80,90,water
+Hyper Beam,50,80,normal
+Hyper Fang,50,80,normal
+Ice Beam,55,90,ice
+Ice Punch,40,55,ice
+Icy Wind,45,60,ice
+Iron Head,50,70,steel
+Last Resort,55,90,normal
+Leaf Blade,35,70,grass
+Leaf Tornado,40,45,grass
+Low Sweep,40,40,bug
+Magnet Bomb,45,70,steel
+Mega Drain,55,25,grass
+Megahorn,55,90,bug
+Meteor Mash,50,100,steel
+Mirror Coat,55,60,psychic
+MoonBlast,70,130,fairy
+Mud Bomb,40,55,ground
+Muddy Water,35,35,water
+Night Shade,55,60,ghost
+Night Slash,40,50,dark
+Ominous Wind,40,50,ghost
+Origin Pulse,60,130,water
+Outrage,60,110,dragon
+Overheat,80,150,fire
+Parabolic Charge,55,25,electric
+Petal Blizzard,65,110,grass
+Play Rough,60,90,fairy
+Poison Fang,35,40,poison
+Power Gem,60,80,rock
+Power Whip,50,90,grass
+Power-Up Punch,35,20,fight
+Precipice Blades,60,130,ground
+Psybeam,60,70,psychic
+Psychic,55,90,psychic
+Psycho Boost,40,70,psychic
+Psyshock,45,70,psychic
+Psystrike,45,90,psychic
+Rest,35,50,normal
+Return,40,50,normal
+Rock Blast,40,50,rock
+Rock Slide,45,80,rock
+Rock Tomb,60,70,rock
+Sand Tomb,60,80,ground
+Scald,60,80,water
+Seed Bomb,40,55,grass
+Shadow Ball,55,100,ghost
+Shadow Punch,35,40,ghost
+Shadow Sneak,45,50,ghost
+Signal Beam,55,75,bug
+Silver Wind,45,70,bug
+Skull Bash,75,130,normal
+Sky Attack,45,80,flying
+Sludge,40,50,poison
+Sludge Bomb,50,80,poison
+Sludge Wave,65,100,poison
+Solar Beam,80,150,grass
+Stomp,40,55,normal
+Stone Edge,55,100,rock
+Struggle,100,35,normal
+Submission,50,60,fight
+Surf,40,65,water
+Swift,55,60,normal
+Synchronoise,50,80,psychic
+Thunder,60,100,electric
+Thunder Punch,40,55,electric
+Thunderbolt,55,90,electric
+Twister,45,45,dragon
+Vice Grip,40,40,normal
+Water Pulse,60,70,water
+Weather Ball,35,60,normal
+Weather Ball (Fire),35,60,fire
+Weather Ball (Ice),35,60,ice
+Weather Ball (Water),35,60,water
+Wild Charge,50,90,electric
+Wrap,45,60,normal
+X-Scissor,35,45,bug
+Zap Cannon,80,150,electric

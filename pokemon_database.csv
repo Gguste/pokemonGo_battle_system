@@ -1,0 +1,151 @@
+Bulbasaur,128,118,111,45,grass,poison,Vine Whip,Tackle,NULL,Sludge Bomb,Power Whip,Seed Bomb,NULL
+Ivysaur,155,151,143,60,grass,poison,Vine Whip,Razor Leaf,NULL,Sludge Bomb,Power Whip,Solar Beam,NULL
+Venusaur,190,198,189,80,grass,poison,Vine Whip,Razor Leaf,NULL,Sludge Bomb,Petal Blizzard,Solar Beam,Frenzy Plant,NULL
+Charmander,118,116,93,65,fire,null,Scratch,Ember,NULL,Flamethrower,Flame Burst,Flame Charge,NULL
+Charmeleon,151,158,126,80,fire,null,Scratch,Ember,Fire Fang,NULL,Flamethrower,Flame Burst,Fire Punch,NULL
+Charizard,186,223,173,100,fire,flying,Fire Spin,Ember,Air Slash,Wing Attack,NULL,Flamethrower,Overheat,Fire Blast,Blast Burn,Dragon Claw,NULL
+Squirtle,127,94,121,43,water,null,Bubble,Tackle,NULL,Aqua Tail,Water Pulse,Aqua Jet,NULL
+Wartortle,153,126,155,58,water,null,Bite,Water Gun,NULL,Hydro Pump,Ice Beam,Aqua Jet,NULL
+Blastoise,188,171,207,78,water,null,Bite,Water Gun (Blastoise),NULL,Hydro Pump (Blastoise),Ice Beam,Hydro Cannon,Flash Cannon,NULL
+Caterpie,128,55,55,45,bug,null,Bug Bite,Tackle,NULL,Struggle,NULL
+Metapod,137,45,80,30,bug,null,Bug Bite,Tackle,NULL,Struggle,NULL
+Butterfree,155,167,137,70,bug,flying,Bug Bite,Confusion,Struggle Bug,NULL,Psychic,Signal Beam,Bug Buzz,NULL
+Weedle,120,63,50,50,bug,poison,Bug Bite,Poison Sting,NULL,Struggle,NULL
+Kakuna,128,46,75,35,bug,poison,Bug Bite,Poison Sting,NULL,Struggle,NULL
+Beedrill,163,169,130,75,bug,poison,Bug Bite,Poison Jab,Infestation,NULL,Sludge Bomb,X-Scissor,Aerial Ace,NULL
+Pidgey,120,85,73,56,normal,flying,Quick Attack,Tackle,NULL,Aerial Ace,Air Cutter,Twister,NULL
+Pidgeotto,160,117,105,71,normal,flying,Wing Attack,Steel Wing,NULL,Aerial Ace,Air Cutter,Twister,NULL
+Pidgeot,195,166,154,101,normal,flying,Wing Attack,Steel Wing,Air Slash,NULL,Aerial Ace,Air Cutter,Brave Bird,Hurricane,NULL
+Rattata,102,103,70,72,normal,null,Quick Attack,Tackle,NULL,Hyper Fang,Body Slam,Dig,NULL
+Raticate,146,161,139,97,normal,null,Quick Attack,Bite,NULL,Hyper Fang,Hyper Beam,Dig,NULL
+Spearow,120,112,60,70,normal,flying,Quick Attack,Peck,NULL,Aerial Ace,Drill Peck,Sky Attack,Twister,NULL
+Fearow,163,182,133,100,normal,flying,Steel Wing,Peck,NULL,Aerial Ace,Drill Run,Sky Attack,Twister,NULL
+Ekans,111,110,97,55,poison,null,Acid,Poison Sting,NULL,Gunk Shot,Sludge Bomb,Poison Fang,Wrap,NULL
+Arbok,155,167,153,80,poison,null,Acid,Bite,Dragon Tail,NULL,Gunk Shot,Sludge Wave,Dark Pulse,NULL
+Pikachu,111,112,96,90,electric,null,Quick Attack,Thunder Shock,Present,NULL,Thunder,Wild Charge,Thunderbolt,Discharge,NULL
+Raichu,155,193,151,110,electric,null,Spark,Thunder Shock,Volt Switch,NULL,Thunder,Wild Charge,Thunder Punch,Brick Break,NULL
+Sandshrew,137,126,120,40,ground,null,Scratch,Mud Shot,NULL,Rock Slide,Dig,Sand Tomb,Rock Tomb,NULL
+Sandslash,181,182,175,65,ground,null,Metal Claw,Mud Shot,NULL,Earthquake,Bulldoze,Rock Tomb,NULL
+Nidoran (Female),146,86,89,41,poison,null,Bite,Poison Sting,NULL,Sludge Bomb,Body Slam,Poison Fang,NULL
+Nidorina,172,117,120,56,poison,null,Bite,Poison Sting,NULL,Sludge Bomb,Dig,Poison Fang,NULL
+Nidoqueen,207,180,173,76,poison,ground,Bite,Poison Jab,NULL,Sludge Wave,Stone Edge,Earthquake,NULL
+Nidoran (Male),130,105,76,50,poison,null,Peck,Poison Sting,NULL,Sludge Bomb,Body Slam,Horn Attack,NULL
+Nidorino,156,137,111,65,poison,null,Poison Sting,Poison Jab,NULL,Sludge Bomb,Body Slam,Dig,NULL
+Nidoking,191,204,156,85,poison,ground,Poison Jab,Iron Tail,Fury Cutter,NULL,Sludge Wave,Megahorn,Earthquake,NULL
+Clefairy,172,107,108,35,fairy,null,Pound,Zen Headbutt,NULL,MoonBlast,Body Slam,Disarming Voice,NULL
+Clefable,216,178,162,60,fairy,null,Pound,Zen Headbutt,Charge Beam,NULL,MoonBlast,Meteor Mash,Psychic,NULL
+Vulpix,116,96,109,65,fire,null,Quick Attack,Ember,NULL,Flamethrower,Body Slam,Flame Charge,NULL
+Ninetales,117,169,190,100,fire,null,Fire Spin,Ember,Feint Attack,NULL,Overheat,Fire Blast,Flamethrower,Heat Wave,Solar Beam,Psyshock,NULL
+Jigglypuff,251,80,41,20,normal,fairy,Pound,Feint Attack,NULL,Play Rough,Dazzling Gleam,Body Slam,Gyro Ball,Disarming Voice,NULL
+Wigglytuff,295,156,90,45,normal,fairy,Pound,Feint Attack,NULL,Play Rough,Dazzling Gleam,Hyper Beam,Ice Beam,NULL
+Zubat,120,83,73,55,poison,flying,Bite,Quick Attack,NULL,Sludge Bomb,Air Cutter,Poison Fang,Swift,NULL
+Golbat,181,161,150,90,poison,flying,Bite,Wing Attack,NULL,Shadow Ball,Air Cutter,Poison Fang,Ominous Wind,NULL
+Oddish,128,131,112,30,grass,poison,Razor Leaf,Acid,NULL,Sludge Bomb,MoonBlast,Seed Bomb,NULL
+Gloom,155,153,136,40,grass,poison,Razor Leaf,Acid,NULL,Sludge Bomb,MoonBlast,Petal Blizzard,NULL
+Vileplume,181,202,167,50,grass,poison,Razor Leaf,Acid,NULL,Solar Beam,MoonBlast,Petal Blizzard,NULL
+Paras,111,121,99,25,bug,grass,Bug Bite,Scratch,NULL,X-Scissor,Seed Bomb,Cross Poison,NULL
+Parasect,155,165,146,30,bug,grass,Bug Bite,Struggle Bug,Fury Cutter,NULL,X-Scissor,Solar Beam,Cross Poison,NULL
+Venonat,155,100,100,45,bug,poison,Confusion,Bug Bite,NULL,Signal Beam,Poison Fang,Psybeam,NULL
+Venomoth,173,179,143,90,bug,poison,Confusion,Bug Bite,Infestation,NULL,Silver Wind,Poison Fang,Psychic,Bug Buzz,NULL
+Diglett,67,109,78,95,ground,null,Mud-Slap,Scratch,Mud Shot,NULL,Mud Bomb,Dig,Rock Tomb,NULL
+Dugtrio,111,167,134,120,ground,null,Mud-Slap,Sucker Punch,Mud Shot,NULL,Mud Bomb,Stone Edge,Earthquake,NULL
+Meowth,120,92,78,90,normal,null,Scratch,Bite,NULL,Foul Play,Body Slam,Dark Pulse,Night Slash,NULL
+Persian,163,150,136,115,normal,null,Scratch,Feint Attack,NULL,Foul Play,Play Rough,Power Gem,Night Slash,NULL
+Psyduck,137,122,95,55,water,null,Water Gun,Zen Headbutt,NULL,Cross Chop,Aqua Tail,Psybeam,NULL
+Golduck,190,191,162,85,water,null,Water Gun,Confusion,NULL,Hydro Pump,Ice Beam,Psychic,NULL
+Mankey,120,148,82,70,fight,null,Scratch,Karate Chop,NULL,Cross Chop,Brick Break,Low Sweep,NULL
+Primeape,163,207,138,95,fight,null,Counter,Low Kick,Karate Chop,NULL,Cross Chop,Close Combat,Low Sweep,Night Slash,NULL
+Growlithe,146,136,93,60,fire,null,Ember,Bite,NULL,Flamethrower,Flame Wheel,Body Slam,NULL
+Arcanine,207,227,166,95,fire,null,Fire Fang,Snarl,Bite,NULL,Flamethrower,Fire Blast,Wild Charge,Bulldoze,Crunch,NULL
+Poliwag,120,101,82,90,water,null,Bubble,Mud Shot,NULL,Bubble Beam,Body Slam,Mud Bomb,NULL
+Poliwhirl,163,130,123,90,water,null,Bubble,Mud Shot,NULL,Bubble Beam,Water Pulse,Scald,Mud Bomb,NULL
+Poliwrath,207,182,184,70,water,fight,Rock Smash,Bubble,Mud Shot,NULL,Hydro Pump,Dynamic Punch,Submission,Ice Punch,NULL
+Abra,93,195,82,90,psychic,null,Zen Headbutt,Charge Beam,NULL,Shadow Ball,Psyshock,Signal Beam,NULL
+Kadabra,120,232,117,105,psychic,null,Confusion,Psycho Cut,NULL,Shadow Ball,Psybeam,Dazzling Gleam,NULL
+Alakazam,146,271,167,120,psychic,null,Confusion,Psycho Cut,NULL,Shadow Ball,Psychic,Dazzling Gleam,Fire Punch,Focus Blast,Futuresight,NULL
+Machop,172,137,82,35,fight,null,Rock Smash,Karate Chop,Low Kick,NULL,Cross Chop,Brick Break,Low Sweep,NULL
+Machoke,190,177,125,45,fight,null,Karate Chop,Low Kick,NULL,Cross Chop,Brick Break,Dynamic Punch,Submission,NULL
+Machamp,207,234,159,55,fight,null,Karate Chop,Counter,Bullet Punch,NULL,Cross Chop,Close Combat,Dynamic Punch,Submission,Stone Edge,Heavy Slam,Rock Slide,NULL
+Bellsprout,137,139,61,40,grass,poison,Vine Whip,Acid,NULL,Sludge Bomb,Power Whip,Wrap,NULL
+Weepinbell,163,172,92,55,grass,poison,Razor Leaf,Bullet Seed,Acid,NULL,Sludge Bomb,Power Whip,Seed Bomb,NULL
+Victreebel,190,207,135,70,grass,poison,Razor Leaf,Acid,NULL,Sludge Bomb,Solar Beam,Leaf Blade,NULL
+Tentacool,120,97,149,70,water,poison,Bubble,Poison Sting,NULL,Bubble Beam,Water Pulse,Wrap,NULL
+Tentacruel,190,166,209,100,water,poison,Poison Jab,Acid,NULL,Hydro Pump,Blizzard,Sludge Wave,NULL
+Geodude,120,132,132,20,rock,ground,Rock Throw,Tackle,NULL,Rock Slide,Rock Tomb,Dig,NULL
+Graveler,146,164,164,35,rock,ground,Rock Throw,Mud-Slap,Mud Shot,NULL,Rock Slide,Rock Blast,Stone Edge,Dig,NULL
+Golem,190,211,198,45,rock,ground,Rock Throw,Mud-Slap,Mud Shot,NULL,Earthquake,Rock Blast,Stone Edge,Ancient Power,NULL
+Ponyta,137,170,127,90,fire,null,Ember,Tackle,NULL,Fire Blast,Stomp,Flame Wheel,Flame Charge,NULL
+Rapidash,163,207,162,105,fire,null,Ember,Fire Spin,Low Kick,NULL,Fire Blast,Heat Wave,Drill Run,NULL
+Slowpoke,207,109,98,15,water,psychic,Confusion,Water Gun,NULL,Psychic,Psyshock,Water Pulse,NULL
+Slowbro,216,177,180,30,water,psychic,Confusion,Water Gun,NULL,Psychic,Ice Beam,Water Pulse,NULL
+Magnemite,93,165,121,45,electric,steel,Spark,Thunder Shock,NULL,Thunderbolt,Discharge,Magnet Bomb,NULL
+Magneton,137,223,169,70,electric,steel,Spark,Thunder Shock,Charge Beam,NULL,Zap Cannon,Flash Cannon,Discharge,Magnet Bomb,NULL
+Farfetch'd,141,124,115,60,normal,flying,Air Slash,Cut,Fury Cutter,NULL,Leaf Blade,Aerial Ace,Air Cutter,NULL
+Doduo,111,158,83,75,normal,flying,Peck,Quick Attack,NULL,Brave Bird,Drill Peck,Aerial Ace,Swift,NULL
+Dodrio,155,218,140,110,normal,flying,Steel Wing,Feint Attack,NULL,Brave Bird,Drill Peck,Aerial Ace,Air Cutter,NULL
+Seel,163,85,121,45,water,null,Water Gun,Lick,Ice Shard,NULL,Aqua Tail,Aurora Beam,Aqua Jet,Icy Wind,NULL
+Dewgong,207,139,177,70,water,ice,Iron Tail,Frost Breath,Ice Shard,NULL,Blizzard,Aurora Beam,Water Pulse,Icy Wind,Aqua Jet,NULL
+Grimer,190,135,90,25,poison,null,Poison Jab,Acid,Mud-Slap,NULL,Sludge Bomb,Sludge,Mud Bomb,NULL
+Muk,233,190,172,50,poison,null,Poison Jab,Acid,Lick,Infestation,NULL,Sludge Wave,Gunk Shot,Dark Pulse,Thunder Punch,NULL
+Shellder,102,116,134,40,water,null,Tackle,Ice Shard,NULL,Bubble Beam,Water Pulse,Icy Wind,NULL
+Cloyster,137,186,256,70,water,ice,Frost Breath,Ice Shard,NULL,Blizzard,Hydro Pump,Avalanche,Aurora Beam,Icy Wind,NULL
+Gastly,102,186,67,80,ghost,poison,Lick,Sucker Punch,Astonish,NULL,Sludge Bomb,Night Shade,Dark Pulse,Ominous Wind,NULL
+Haunter,128,223,107,95,ghost,poison,Lick,Shadow Claw,Astonish,NULL,Sludge Bomb,Shadow Ball,Dark Pulse,Shadow Punch,NULL
+Gengar,155,261,149,110,ghost,poison,Hex,Shadow Claw,Sucker Punch,NULL,Sludge Bomb,Sludge Wave,Shadow Ball,Dark Pulse,Focus Blast,NULL
+Onix,111,85,232,70,rock,ground,Rock Throw,NULL,Stone Edge,Rock Slide,Heavy Slam, Iron Head,Sand Tomb,NULL
+Drowzee,155,89,136,42,psychic,null,Confusion,Pound,NULL,Psychic,Psyshock,Psybeam,NULL
+Hypno,198,144,193,67,psychic,null,Confusion,Zen Headbutt,NULL,Psychic,Psyshock,Futuresight,Focus Blast,Shadow Ball,NULL
+Krabby,102,181,124,50,water,null,Bubble,Mud Shot,NULL,Bubble Beam,Water Pulse,Vice Grip,NULL
+Kingler,146,240,181,75,water,null,Bubble,Mud Shot,Metal Claw,NULL,X-Scissor,Water Pulse,Vice Grip,NULL
+Voltorb,120,109,111,100,electric,null,Spark,Tackle,NULL,Thunderbolt,Discharge,Signal Beam,Gyro Ball,NULL
+Electrode,155,173,173,150,electric,null,Spark,Tackle,Volt Switch,NULL,Thunderbolt,Discharge,Hyper Beam,NULL
+Exeggcute,155,107,125,40,grass,psychic,Confusion,Bullet Seed,NULL,Psychic,Seed Bomb,Ancient Power,NULL
+Exeggutor,216,233,149,55,grass,psychic,Confusion,Bullet Seed,Zen Headbutt,Extrasensory,NULL,Psychic,Seed Bomb,Solar Beam,NULL
+Cubone,137,90,144,35,ground,null,Mud-Slap,Rock Smash,NULL,Bone Club,Bulldoze,Dig,NULL
+Marowak,155,144,186,45,ground,null,Mud-Slap,Rock Smash,NULL,Bone Club,Earthquake,Dig,NULL
+Hitmonlee,137,224,181,87,fight,null,Rock Smash,Low Kick,NULL,Close Combat,Stone Edge,Stomp,Brick Break,Low Sweep,NULL
+Hitmonchan,137,193,197,76,fight,null,Rock Smash,Counter,Bullet Punch,NULL,Close Combat,Brick Break,Ice Punch,Thunder Punch,Fire Punch,NULL
+Lickitung,207,108,137,30,normal,null,Zen Headbutt,Lick,NULL,Hyper Beam,Stomp,Power Whip,NULL
+Koffing,120,119,141,35,poison,null,Acid,Tackle,Infestation,NULL,Sludge,Sludge Bomb,Dark Pulse,NULL
+Weezing,163,174,197,60,poison,null,Acid,Tackle,Infestation,NULL,Sludge Bomb,Dark Pulse,Shadow Ball,Thunderbolt,NULL
+Rhyhorn,190,140,127,25,ground,rock,Mud-Slap,Rock Smash,NULL,Stomp,Bulldoze,Horn Attack,NULL
+Rhydon,233,222,171,40,ground,rock,Mud-Slap,Rock Smash,NULL,Stone Edge,Megahorn,Earthquake,Surf,NULL
+Chansey,487,60,128,50,normal,null,Pound,Zen Headbutt,NULL,Hyper Beam,Psychic,Dazzling Gleam,Psybeam,NULL
+Tangela,163,183,169,60,grass,null,Vine Whip,Infestation,NULL,Solar Beam,Power Whip,Grass Knot,Sludge Bomb,NULL
+Kangaskhan,223,181,165,90,normal,null,Mud-Slap,Low Kick,NULL,Stomp,Earthquake,Outrage,Brick Break,Crunch,NULL
+Horsea,102,129,103,60,water,null,Water Gun,Bubble,NULL,Flash Cannon,Bubble Beam,Dragon Pulse,NULL
+Seadra,146,187,156,85,water,null,Water Gun,Dragon Breath,NULL,Hydro Pump,Aurora Beam,Blizzard,Dragon Pulse,NULL
+Goldeen,128,123,110,63,water,null,Peck,Mud Shot,NULL,Aqua Tail,Water Pulse,Horn Attack,NULL
+Seaking,190,175,147,68,water,null,Peck,Poison Jab,Waterfall,NULL,Megahorn,Drill Run,Ice Beam,Water Pulse,Icy Wind,NULL
+Staryu,102,137,112,85,water,null,Water Gun,Quick Attack,Tackle,NULL,Bubble Beam,Power Gem,Swift,NULL
+Starmie,155,210,184,115,water,psychic,Water Gun,Quick Attack,Tackle,Hidden Power,NULL,Hydro Pump,Ice Beam,Power Gem,Psybeam,Thunder,Psychic,NULL
+Mr. Mime,120,192,205,90,psychic,fairy,Confusion,Zen Headbutt,NULL,Psychic,Shadow Ball,Psybeam,NULL
+Scyther,172,218,170,105,bug,flying,Air Slash,Steel Wing,Fury Cutter,NULL,X-Scissor,Bug Buzz,Aerial Ace,Night Slash,NULL
+Jynx,163,223,151,95,ice,psychic,Confusion,Frost Breath,Pound,NULL,Focus Blast,Avalanche,Ice Punch,Psyshock,Draining Kiss,NULL
+Electabuzz,163,198,158,105,electric,null,Low Kick,Thunder Shock,NULL,Thunder,Thunderbolt,Thunder Punch,NULL
+Magmar,163,206,154,93,fire,null,Ember,Karate Chop,NULL,Fire Blast,Flamethrower,Fire Punch,NULL
+Pinsir,163,238,182,85,bug,null,Bug Bite,Rock Smash,Fury Cutter,NULL,Close Combat,X-Scissor,Submission,Vice Grip,NULL
+Tauros,181,198,183,110,normal,null,Tackle,Zen Headbutt,NULL,Earthquake,Iron Head,Horn Attack,NULL
+Magikarp,85,29,85,80,water,null,Splash,NULL,Struggle,NULL
+Gyarados,216,237,186,81,water,flying,Waterfall,Dragon Tail,Bite,Dragon Breath,NULL,Hydro Pump,Outrage,Dragon Pulse,Crunch,Twister,NULL
+Lapras,277,165,174,60,water,ice,Frost Breath,Ice Shard,Water Gun,NULL,Blizzard,Hydro Pump,Surf,Ice Beam,Dragon Pulse,NULL
+Ditto,134,91,91,48,normal,null,Transform,NULL,Struggle,NULL
+Eevee,146,104,114,55,normal,null,Quick Attack,Tackle,NULL,Last Resort,Body Slam,Swift,Dig,NULL
+Vaporeon,277,205,161,65,water,null,Water Gun,NULL,Hydro Pump,Aqua Tail,Water Pulse,NULL
+Jolteon,163,232,182,130,electric,null,Volt Switch,Thunder Shock,NULL,Thunder,Thunderbolt,Discharge,NULL
+Flareon,163,246,173,65,fire,null,Fire Spin,Ember,NULL,Overheat,Fire Blast,Flamethrower,Heat Wave,NULL
+Porygon,163,153,136,40,normal,null,Tackle,Quick Attack,Hidden Power,Zen Headbutt,Charge Beam,NULL,Hyper Beam,Zap Cannon,Solar Beam,Discharge,Signal Beam,Psybeam,NULL
+Omanyte,111,155,153,35,rock,water,Water Gun,Mud Shot,NULL,Brine,Rock Blast,Bubble Beam,Rock Tomb,Ancient Power,NULL
+Omastar,172,207,201,55,rock,water,Water Gun,Mud Shot,Rock Throw,NULL,Hydro Pump,Rock Slide,Rock Blast,Ancient Power,NULL
+Kabuto,102,148,140,55,rock,water,Scratch,Mud Shot,NULL,Rock Tomb,Ancient Power,Aqua Jet,NULL
+Kabutops,155,220,186,80,rock,water,Waterfall,Rock Smash,Mud Shot,Fury Cutter,NULL,Stone Edge,Water Pulse,Ancient Power,NULL
+Aerodactyl,190,221,159,130,rock,flying,Steel Wing,Bite,NULL,Hyper Beam,Rock Slide,Iron Head,Ancient Power,NULL
+Snorlax,330,190,169,30,normal,null,Zen Headbutt,Lick,NULL,Hyper Beam,Earthquake,Heavy Slam,Body Slam,Outrage,NULL
+Articuno,207,192,236,85,ice,flying,Frost Breath,NULL,Blizzard,Hurricane,Ice Beam,Icy Wind,NULL
+Zapdos,207,253,185,100,electric,flying,Thunder Shock,Charge Beam,NULL,Thunder,Zap Cannon,Thunderbolt,Discharge,NULL
+Moltres,207,251,181,90,fire,flying,Fire Spin,Ember,NULL,Overheat,Sky Attack,Fire Blast,Flamethrower,Heat Wave,NULL
+Dratini,121,119,91,50,dragon,null,Dragon Breath,Iron Tail,NULL,Aqua Tail,Wrap,Twister,NULL
+Dragonair,156,163,135,70,dragon,null,Dragon Breath,Iron Tail,NULL,Aqua Tail,Wrap,Dragon Pulse,NULL
+Dragonite,209,263,198,80,dragon,flying,Dragon Tail,Dragon Breath,Steel Wing,NULL,Draco Meteor,Hurricane,Hyper Beam,Dragon Claw,Outrage,Dragon Pulse,NULL
+Mewtwo,214,300,182,130,psychic,null,Confusion,Psycho Cut,NULL,Psychic,Focus Blast,Hyper Beam,Shadow Ball,Thunderbolt,Flamethrower,Ice Beam,NULL
+Mew,225,210,210,100,psychic,null,Steel Wing,Dragon Tail,Waterfall,Shadow Claw,Poison Jab,Pound,Rock Smash,Frost Breath,Snarl,Struggle Bug,Cut,Infestation,Volt Switch,Charge Beam,NULL,Stone Edge,Psychic,Blizzard,Thunder,Focus Blast,Overheat,Hyper Beam,Surf,Flash Cannon,Solar Beam,Grass Knot,Wild Charge,Thunderbolt,Rock Slide,Dragon Claw,Psyshock,Dazzling Gleam,Ice Beam,Dark Pulse,Gyro Ball,Energy Ball,Bulldoze,Low Sweep,Ancient Power,Flame Charge,NULL
